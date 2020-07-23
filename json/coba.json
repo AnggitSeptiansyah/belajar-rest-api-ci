@@ -1,0 +1,33 @@
+[
+  {
+    "nim": "11753102086",
+    "nama": "Anggit Septiansyah",
+    "umur": 20,
+    "jurusan": "Sistem informasi",
+    "lulus": true,
+    "hobi": [
+      "coding",
+      "gaming",
+      "baca komik"
+    ],
+    "pembimbing": {
+      "pembimbing1": "Febi Nur Salisa",
+      "pembimbing2": "Rosa"
+    }
+  },
+  {
+    "nim": "11753102099",
+    "nama": "Rudiansyah",
+    "umur": 20,
+    "jurusan": "Sistem informasi",
+    "lulus": true,
+    "hobi": [
+      "coding",
+      "gaming"
+    ],
+    "pembimbing": {
+      "pembimbing1": "Febi Nur Salisa",
+      "pembimbing2": "Rosa"
+    }
+  }
+]
